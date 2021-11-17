@@ -1,15 +1,24 @@
-# ToDoApp-Flutter
+# video course
 
-## Create a simple todolist Flutter application
+A new Flutter project created with [FlutLab](https://flutlab.io)
 
+### Getting Started: FlutLab - Flutter Online IDE
 
-<p align="center">
-  <img width="40%" src="https://user-images.githubusercontent.com/65108313/142168387-1aba0125-291f-4d6e-aae4-4fb532d82de0.jpg">
-  <img width="40%" src="https://user-images.githubusercontent.com/65108313/142168393-2e340fa6-cc96-4616-a91c-bc5a8caad1b7.jpg">
-</p>
-<br>
-<p align="center">
-  <img width="40%" src="https://user-images.githubusercontent.com/65108313/142168412-f3602367-fbf3-4fe3-b62a-8319874948c3.jpg">
-  <img width="40%" src="https://user-images.githubusercontent.com/65108313/142168393-2e340fa6-cc96-4616-a91c-bc5a8caad1b7.jpg">
-</p>
+- Watch Mini crash course "How to use Flutter Widgets" on [FlutLab Youtube Channel](https://www.youtube.com/channel/UC7ZOPQm4JFlvBc9WeynLX_g)
+- Discover a marketplace of ready-to-use Flutter projects [FlutLab Widget Bay](https://widgetbay.flutlab.io/)
+- Join the discussion and conversation on [FlutLab Facebook Group](https://www.facebook.com/groups/flutlab/)
 
+If you have some questions regarding FlutLab, you can ask on [FlutLab FAQ](https://faq.flutlab.io/)
+
+### Getting Started: Flutter
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
